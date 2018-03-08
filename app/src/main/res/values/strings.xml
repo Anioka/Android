@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CampScout test</string>
+
+    <string name="help">Welcome to CampScout! Read carefully if you encountered a problem.</string>
+</resources>
